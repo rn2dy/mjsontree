@@ -1,0 +1,8 @@
+{
+  "name": "json-tree",
+  "version": "1.0.0",
+  "main": [
+    "jsontree.css",
+    "jsontree.js"
+  ]
+}
